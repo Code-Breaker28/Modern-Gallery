@@ -8,11 +8,12 @@
     margin: 0;padding: 0;
     box-sizing: border-box;
     font-family: 'Modern Antiqua', cursive;
+    background-color: var(--background);
 }
 
-body{
-     background-color: var(--background);
-}
+
+     
+
 
 .background{
     display: grid;
